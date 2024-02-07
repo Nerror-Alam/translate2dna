@@ -70,7 +70,8 @@ elif Translation_type == 'from':
     print("Here is your translated message: " + str(output))
 
 else:
-    print("that's not a valid option ￣へ￣ \n please run the program again")
+    print("that's not a valid option ￣へ￣")
+    print("please run the program again")
     quit()
 
 
